@@ -12,4 +12,4 @@
 - Git & GitHub
 
 ## 📫 Contact Me
-- Email: your-email@gmail.com
+- Email: ncibisousou@gmail.com
